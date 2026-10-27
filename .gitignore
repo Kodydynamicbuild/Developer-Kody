@@ -1,0 +1,12 @@
+# Project place file
+/Run Grocery Store Gamemaster.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+rojo.exe
+sourcemap.json
+*.rbxl.lock
+*.rbxlx.lock
